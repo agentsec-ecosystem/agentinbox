@@ -2,6 +2,8 @@
 
 > **Block / limit** — Ask-gate consumer that routes agent approval requests to Slack, terminal, CI, or mobile.
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/agentsec-ecosystem/agentinbox/badge)](https://scorecard.dev/viewer/?uri=github.com/agentsec-ecosystem/agentinbox)
+
 Part of the [agentsec-ecosystem](https://github.com/agentsec-ecosystem) — open-source,
 harness-agnostic security for AI agents.
 
